@@ -1,4 +1,4 @@
-# battery-heat-transfer-simulation
+# Battery Thermal Simulation
 
 This repository contains a comprehensive Python script for simulating and visualizing the temperature distribution within a lithium-ion battery using a finite difference method. The code integrates various thermal properties, battery dimensions, initial and boundary conditions, and models the heat transfer processes over time, making it an excellent tool for understanding battery thermal behavior and management.
 
