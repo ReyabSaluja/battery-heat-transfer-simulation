@@ -60,3 +60,8 @@ where:
 1. **Install Dependencies**: Ensure you have `numpy` and `matplotlib` installed.
    ```bash
    pip install numpy matplotlib
+
+## Final Result
+
+![Figure1](https://github.com/user-attachments/assets/68e35007-9ace-47a8-8109-5db4f07e880f)
+
