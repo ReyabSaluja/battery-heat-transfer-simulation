@@ -61,7 +61,7 @@ where:
    ```bash
    pip install numpy matplotlib
 
-## Final Result
+## Final Results
 
 ![Figure1](https://github.com/user-attachments/assets/68e35007-9ace-47a8-8109-5db4f07e880f)
 
